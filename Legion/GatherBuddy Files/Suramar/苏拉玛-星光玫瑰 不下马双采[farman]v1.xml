@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<HBProfile>
+  <Name>苏拉玛-星光玫瑰 双采</Name>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <ProtectedItems>
+    <Item>6497</Item>
+    <Item>6949</Item>
+    <Item>6950</Item>
+    <Item>8926</Item>
+    <Item>8927</Item>
+    <Item>8928</Item>
+    <Item>21927</Item>
+    <Item>43230</Item>
+    <Item>43231</Item>
+    <Item>17031</Item>
+    <Item>118</Item>
+    <Item>858</Item>
+    <Item>929</Item>
+    <Item>1710</Item>
+    <Item>3928</Item>
+    <Item>13446</Item>
+    <Item>17556</Item>
+    <Item>28551</Item>
+    <Item>33447</Item>
+    <Item>30319</Item>
+    <Item>34581</Item>
+    <Item>34582</Item>
+    <Item>32760</Item>
+    <Item>32761</Item>
+    <Item>31737</Item>
+    <Item>31735</Item>
+    <Item>23773</Item>
+    <Item>33803</Item>
+    <Item>12654</Item>
+    <Item>10579</Item>
+    <Item>32883</Item>
+    <Item>30612</Item>
+    <Item>30611</Item>
+    <Item>32882</Item>
+    <Item>41164</Item>
+    <Item>13377</Item>
+    <Item>11630</Item>
+    <Item>41165</Item>
+    <Item>31949</Item>
+    <Item>3465</Item>
+    <Item>3464</Item>
+    <Item>23772</Item>
+    <Item>10512</Item>
+    <Item>19316</Item>
+    <Item>19317</Item>
+    <Item>10513</Item>
+    <Item>9399</Item>
+    <Item>24417</Item>
+    <Item>18042</Item>
+    <Item>15997</Item>
+    <Item>11284</Item>
+    <Item>28056</Item>
+    <Item>8068</Item>
+    <Item>8067</Item>
+    <Item>8069</Item>
+    <Item>4960</Item>
+    <Item>41584</Item>
+    <Item>2519</Item>
+    <Item>28060</Item>
+    <Item>28061</Item>
+    <Item>11285</Item>
+    <Item>2516</Item>
+    <Item>3030</Item>
+    <Item>2512</Item>
+    <Item>2515</Item>
+    <Item>5568</Item>
+    <Item>3033</Item>
+    <Item>41586</Item>
+    <Item>28053</Item>
+    <Item>17556</Item>
+    <Item>4541</Item>
+    <Item>3770</Item>
+    <Item>1645</Item>
+    <Item>8766</Item>
+    <Item>4496</Item>
+    <Item>5571</Item>
+    <Item>828</Item>
+    <Item>5572</Item>
+    <Item>805</Item>
+  </ProtectedItems>
+  <SubProfile>
+    <Blackspots>
+	<Blackspot X="1469.587" Y="5443.142" Z="77.64575" />
+    <Blackspot X="1739.383" Y="5293.725" Z="70.3914" />
+	<Blackspot X="2353.422" Y="5275.203" Z="92.8364"  />
+	
+    </Blackspots>
+    <Vendors>
+    </Vendors>
+	
+	 <AvoidMobs>
+    	<Mob Name="Starving Ettin" Entry="104220" /> <!--Elite Hard to Kill-->
+		<Mob Name="影箭" Entry="103841" />
+		<Mob Name="精灵灾星" Entry="99792" />
+		<Mob Name="黯牙" Entry="104226" />
+		<Mob Name="腐蚀者马尔戴斯" Entry="110024" />
+		<Mob Name="精灵灾星" Entry="99792" />
+		<Mob Name="饥饿的双头怪" Entry="104220" />
+	    <Mob Name="崖翼天爪鹰" Entry="113127"/>
+		<Mob Name="苏拉玛啸狼" Entry="104224"/>
+		<Mob Name="石脊凝视者" Entry="99779"/>
+		<Mob Name="枯法行尸" Entry="100014"/>
+		<Mob Name="枯法饥渴者" Entry="98233"/>
+		<Mob NName="苏拉玛灰熊" Entry="106804" />
+		<Mob Name="枯法暴食者" Entry="108942"/>
+		<Mob Name="邪恶的织网蛛" Entry="107811"/>
+		<Mob Name="梅瑞戴尔大嘴鳄" Entry="113190"/>	
+		<Mob Name="法鳞魔蜥" Entry="99793"/>	
+	</AvoidMobs>
+	
+
+    <Mailboxes>
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="1647.89" Y="4853.815" Z="149.9329" />
+      <Hotspot X="1614.424" Y="4873.595" Z="159.509" />
+      <Hotspot X="1572.806" Y="4891.937" Z="164.0789" />
+      <Hotspot X="1527.206" Y="4893.628" Z="174.3541" />
+      <Hotspot X="1485.165" Y="4887.769" Z="181.8491" />
+      <Hotspot X="1452.807" Y="4856.425" Z="175.1767" />
+      <Hotspot X="1419.654" Y="4829.063" Z="172.1524" />
+      <Hotspot X="1390.68" Y="4798.523" Z="161.4996" />
+      <Hotspot X="1349.566" Y="4817.983" Z="168.9358" />
+      <Hotspot X="1329.714" Y="4847.697" Z="177.7496" />
+      <Hotspot X="1355.887" Y="4875.946" Z="182.5453" />
+      <Hotspot X="1393.213" Y="4906.097" Z="188.6311" />
+      <Hotspot X="1434.117" Y="4934.558" Z="187.9244" />
+      <Hotspot X="1462.717" Y="4950.716" Z="186.3664" />
+      <Hotspot X="1463.695" Y="4997.474" Z="182.355" />
+      <Hotspot X="1457.348" Y="5041.907" Z="174.1299" />
+      <Hotspot X="1454.798" Y="5092.933" Z="165.374" />
+      <Hotspot X="1459.657" Y="5137.873" Z="150.7706" />
+      <Hotspot X="1447.349" Y="5181.088" Z="143.5217" />
+      <Hotspot X="1428.73" Y="5221.299" Z="135.7444" />
+      <Hotspot X="1407.433" Y="5261.672" Z="126.1786" />
+      <Hotspot X="1384.332" Y="5298.804" Z="114.7685" />
+      <Hotspot X="1351.301" Y="5331.933" Z="104.0015" />
+      <Hotspot X="1310.418" Y="5355.671" Z="98.27617" />
+      <Hotspot X="1277.247" Y="5392.215" Z="96.20154" />
+      <Hotspot X="1307.928" Y="5415.863" Z="95.50307" />
+      <Hotspot X="1349.037" Y="5412.784" Z="99.31873" />
+      <Hotspot X="1383.927" Y="5381.37" Z="97.78535" />
+      <Hotspot X="1428.154" Y="5376.321" Z="90.61399" />
+      <Hotspot X="1475.509" Y="5357.157" Z="85.52893" />
+      <Hotspot X="1519.311" Y="5343.482" Z="88.31947" />
+      <Hotspot X="1529.773" Y="5324.173" Z="93.46039" />
+      <Hotspot X="1537.78" Y="5281.321" Z="98.4539" />
+      <Hotspot X="1568.405" Y="5263.078" Z="87.64599" />
+      <Hotspot X="1569.548" Y="5218.14" Z="87.32223" />
+      <Hotspot X="1598.506" Y="5197.92" Z="80.2814" />
+      <Hotspot X="1613.689" Y="5197.692" Z="75.23803" />
+      <Hotspot X="1645.324" Y="5167.313" Z="73.26976" />
+      <Hotspot X="1654.248" Y="5125.933" Z="82.85197" />
+      <Hotspot X="1686.043" Y="5123.754" Z="76.53917" />
+      <Hotspot X="1714.869" Y="5129.04" Z="74.05293" />
+      <Hotspot X="1731.657" Y="5122.958" Z="76.6779" />
+      <Hotspot X="1770.167" Y="5122.627" Z="83.0313" />
+      <Hotspot X="1807.257" Y="5141.809" Z="84.81672" />
+      <Hotspot X="1829.941" Y="5174.76" Z="81.42237" />
+      <Hotspot X="1868.361" Y="5206.5" Z="83.22081" />
+      <Hotspot X="1893.971" Y="5242.763" Z="82.08228" />
+      <Hotspot X="1903.334" Y="5264.131" Z="77.66587" />
+      <Hotspot X="1927.134" Y="5308.088" Z="76.74959" />
+      <Hotspot X="1952.684" Y="5343.737" Z="77.04363" />
+      <Hotspot X="1970.057" Y="5379.088" Z="77.36957" />
+      <Hotspot X="1976.488" Y="5399.41" Z="78.65772" />
+      <Hotspot X="1983.697" Y="5423.761" Z="79.82183" />
+      <Hotspot X="1991.402" Y="5450.874" Z="79.2762" />
+      <Hotspot X="1996.239" Y="5469.922" Z="77.6537" />
+      <Hotspot X="2006.62" Y="5509.918" Z="77.04555" />
+      <Hotspot X="2004.588" Y="5528.688" Z="77.04555" />
+      <Hotspot X="1992.59" Y="5573.067" Z="77.04374" />
+      <Hotspot X="2020.27" Y="5604.188" Z="77.04224" />
+      <Hotspot X="2049.111" Y="5627.899" Z="79.17162" />
+      <Hotspot X="2094.88" Y="5617.467" Z="90.07794" />
+      <Hotspot X="2138.775" Y="5623.772" Z="98.61954" />
+      <Hotspot X="2177.243" Y="5640.301" Z="110.7374" />
+      <Hotspot X="2219.94" Y="5614.039" Z="111.2936" />
+      <Hotspot X="2243.308" Y="5579.627" Z="99.74554" />
+      <Hotspot X="2267.756" Y="5547.346" Z="96.76942" />
+      <Hotspot X="2318.423" Y="5545.978" Z="113.9991" />
+      <Hotspot X="2363.254" Y="5530.865" Z="130.9952" />
+      <Hotspot X="2397.713" Y="5503.244" Z="139.8647" />
+      <Hotspot X="2433.308" Y="5477.16" Z="141.1468" />
+      <Hotspot X="2457.443" Y="5440.343" Z="135.728" />
+      <Hotspot X="2449.998" Y="5399.268" Z="132.7517" />
+      <Hotspot X="2411.604" Y="5369.37" Z="127.9403" />
+      <Hotspot X="2365.949" Y="5369.069" Z="109.3069" />
+      <Hotspot X="2356.077" Y="5331.938" Z="96.11466" />
+      <Hotspot X="2380.434" Y="5290.516" Z="96.39823" />
+      <Hotspot X="2409.844" Y="5253.792" Z="100.402" />
+      <Hotspot X="2419.686" Y="5241.224" Z="103.5843" />
+      <Hotspot X="2436.422" Y="5203.21" Z="104.4788" />
+      <Hotspot X="2399.456" Y="5170.238" Z="97.55348" />
+      <Hotspot X="2366.219" Y="5140.417" Z="104.2299" />
+      <Hotspot X="2320.073" Y="5133.496" Z="116.972" />
+      <Hotspot X="2277.308" Y="5130.588" Z="122.3079" />
+      <Hotspot X="2227.903" Y="5122.99" Z="126.4116" />
+      <Hotspot X="2188.273" Y="5129.991" Z="126.544" />
+      <Hotspot X="2156.279" Y="5094.38" Z="134.734" />
+      <Hotspot X="2124.846" Y="5055.27" Z="143.5597" />
+      <Hotspot X="2113.768" Y="5036.711" Z="148.7635" />
+      <Hotspot X="2086.548" Y="5030.444" Z="152.8428" />
+      <Hotspot X="2075.74" Y="4984.663" Z="158.8754" />
+      <Hotspot X="2090.102" Y="4951.321" Z="154.6033" />
+      <Hotspot X="2080.5" Y="4903.828" Z="150.9782" />
+      <Hotspot X="2042.076" Y="4884.777" Z="142.7441" />
+      <Hotspot X="2000.67" Y="4886.585" Z="138.5493" />
+      <Hotspot X="1962.325" Y="4905.379" Z="134.7756" />
+      <Hotspot X="1917.456" Y="4918.074" Z="128.4597" />
+      <Hotspot X="1875.201" Y="4931.125" Z="126.5909" />
+      <Hotspot X="1829.235" Y="4929.557" Z="125.2393" />
+      <Hotspot X="1790.644" Y="4924.121" Z="125.8605" />
+      <Hotspot X="1748.998" Y="4919.453" Z="132.1982" />
+      <Hotspot X="1730.371" Y="4921.346" Z="136.9604" />
+      <Hotspot X="1691.575" Y="4895.054" Z="146.3642" />
+      <Hotspot X="1654.359" Y="4868.142" Z="154.2487" />
+    </Hotspots>
+  </SubProfile>
+</HBProfile>
