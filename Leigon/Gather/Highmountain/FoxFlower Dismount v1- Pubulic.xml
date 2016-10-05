@@ -2,12 +2,12 @@
 <HBProfile>
 
 =====================================================
-|         [FoxFlower Dismount Test - Plubic]        |
+|         [FoxFlower Dismount V1 - Plubic]          |
 |          Credits: Farman                          |
 |          QQ 250663153                             |
 =====================================================
 
-  <Name>FoxFlower Dismount Resles - Public</Name>
+  <Name>FoxFlower Dismount V1 - Public</Name>
   <MinDurability>0.4</MinDurability>
   <MinFreeBagSlots>2</MinFreeBagSlots>
   <SellGrey>True</SellGrey>
@@ -103,6 +103,7 @@
     <Blackspots>
 	<Blackspot X="4712.85" Y="4612.814" Z="672.8955" />
 	<Blackspot X="4855.189" Y="4424.875" Z="730.5903" />
+	<Blackspo X="4872.068" Y="4543.298" Z="727.0766"  Radius="10"/>
     </Blackspots>
 	 <AvoidMobs>
     			<Mob Entry="95013" />
