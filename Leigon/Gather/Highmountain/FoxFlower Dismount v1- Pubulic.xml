@@ -104,6 +104,7 @@
 	<Blackspot X="4712.85" Y="4612.814" Z="672.8955" />
 	<Blackspot X="4855.189" Y="4424.875" Z="730.5903" />
 	<Blackspo X="4872.068" Y="4543.298" Z="727.0766"  Radius="10"/>
+	<Blackspot X="4130.497" Y="4582.138" Z="664.0405" Radius="10"/>
     </Blackspots>
 	 <AvoidMobs>
     			<Mob Entry="95013" />
