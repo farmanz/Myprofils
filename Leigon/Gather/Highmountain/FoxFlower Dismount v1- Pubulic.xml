@@ -138,7 +138,9 @@
 				<Mob Entry="96124" />
 				<Mob Entry="99481" />	
 				<Mob Entry="94688" />
-				<Mob Entry="94691" />			
+				<Mob Entry="94691" />
+				<Mob Entry="96410" />
+				
    </AvoidMobs>
 	
     <Vendors>
