@@ -8,6 +8,9 @@
 =====================================================
 
   <Name>Starlight Rose Dismount V2 - Plubic</Name>
+  
+  <MinLevel>1</MinLevel> 
+  <MaxLevel>250663153</MaxLevel>
   <MinDurability>0.4</MinDurability>
   <MinFreeBagSlots>2</MinFreeBagSlots>
   <SellGrey>True</SellGrey>
@@ -19,45 +22,102 @@
   <MailBlue>True</MailBlue>
   <MailPurple>True</MailPurple>
   <ProtectedItems>
+    <Item>6497</Item>
+    <Item>6949</Item>
+    <Item>6950</Item>
+    <Item>8926</Item>
+    <Item>8927</Item>
+    <Item>8928</Item>
+    <Item>21927</Item>
+    <Item>43230</Item>
+    <Item>43231</Item>
+    <Item>17031</Item>
+    <Item>118</Item>
+    <Item>858</Item>
+    <Item>929</Item>
+    <Item>1710</Item>
+    <Item>3928</Item>
+    <Item>13446</Item>
+    <Item>17556</Item>
+    <Item>28551</Item>
+    <Item>33447</Item>
+    <Item>30319</Item>
+    <Item>34581</Item>
+    <Item>34582</Item>
+    <Item>32760</Item>
+    <Item>32761</Item>
+    <Item>31737</Item>
+    <Item>31735</Item>
+    <Item>23773</Item>
+    <Item>33803</Item>
+    <Item>12654</Item>
+    <Item>10579</Item>
+    <Item>32883</Item>
+    <Item>30612</Item>
+    <Item>30611</Item>
+    <Item>32882</Item>
+    <Item>41164</Item>
+    <Item>13377</Item>
+    <Item>11630</Item>
+    <Item>41165</Item>
+    <Item>31949</Item>
+    <Item>3465</Item>
+    <Item>3464</Item>
+    <Item>23772</Item>
+    <Item>10512</Item>
+    <Item>19316</Item>
+    <Item>19317</Item>
+    <Item>10513</Item>
+    <Item>9399</Item>
+    <Item>24417</Item>
+    <Item>18042</Item>
+    <Item>15997</Item>
+    <Item>11284</Item>
+    <Item>28056</Item>
+    <Item>8068</Item>
+    <Item>8067</Item>
+    <Item>8069</Item>
+    <Item>4960</Item>
+    <Item>41584</Item>
+    <Item>2519</Item>
+    <Item>28060</Item>
+    <Item>28061</Item>
+    <Item>11285</Item>
+    <Item>2516</Item>
+    <Item>3030</Item>
+    <Item>2512</Item>
+    <Item>2515</Item>
+    <Item>5568</Item>
+    <Item>3033</Item>
+    <Item>41586</Item>
+    <Item>28053</Item>
+    <Item>17556</Item>
+    <Item>4541</Item>
+    <Item>3770</Item>
+    <Item>1645</Item>
+    <Item>8766</Item>
+    <Item>4496</Item>
+    <Item>5571</Item>
+    <Item>828</Item>
+    <Item>5572</Item>
+    <Item>805</Item>
   </ProtectedItems>
   <SubProfile>
     <Blackspots>
-	<Blackspot X="1469.587" Y="5443.142" Z="77.64575" />
-    <Blackspot X="1739.383" Y="5293.725" Z="70.3914" />
-	<Blackspot X="2353.422" Y="5275.203" Z="92.8364"  />
-	<Blackspot X="2120.985" Y="4925.654" Z="150.0074" />
-	<Blackspot X="2043.492" Y="4958.042" Z="162.583" />
-	<Blackspot X="2211.796" Y="5120.203" Z="127.0473" />
-	<Blackspot X="1774.696" Y="4930.605" Z="127.5442" />
-	<Blackspot X="2068.849" Y="5814.445" Z="100.3274" />
-	<Blackspot X="2603.078" Y="5691.835" Z="182.7097" />
+	<Blackspot X="1469.587" Y="5443.142" Z="77.64575" Radius="3"/>
+    <Blackspot X="1739.383" Y="5293.725" Z="70.3914" Radius="3"/>
+	<Blackspot X="2353.422" Y="5275.203" Z="92.8364" Radius="3" />
+	<Blackspot X="2120.985" Y="4925.654" Z="150.0074" Radius="3"/>
+	<Blackspot X="2043.492" Y="4958.042" Z="162.583" Radius="3"/>
+	<Blackspot X="2211.796" Y="5120.203" Z="127.0473" Radius="3" />
+	<Blackspot X="1774.696" Y="4930.605" Z="127.5442" Radius="3"/>
+	<Blackspot X="2068.849" Y="5814.445" Z="100.3274" Radius="3"/>
+	<Blackspot X="2603.078" Y="5691.835" Z="182.7097" Radius="3"/>
     </Blackspots>
     <Vendors>
+	<Vendor Name="尼莫" Entry="32639" Type="Repair" Nav="Run" />
     </Vendors>
-	
-	 <AvoidMobs>
-    	<Mob Entry="104220" /> <!--Elite Hard to Kill-->
-		<Mob Entry="103841" />
-		<Mob Entry="99792" />
-		<Mob Entry="104226" />
-		<Mob Entry="110024" />
-		<Mob Entry="99792" />
-		<Mob Entry="104220" />
-	    <Mob Entry="113127"/>
-		<Mob Entry="104224"/>
-		<Mob Entry="99779"/>
-		<Mob Entry="100014"/>
-		<Mob Entry="106804" />
-		<Mob Entry="108942"/>
-		<Mob Entry="107811"/>
-		<Mob Entry="113190"/>	
-		<Mob Entry="99793"/>
-		<Mob Entry="98555"/>	
-		<Mob Entry="103527"	/>
-	  	</AvoidMobs>
-	
-
-    <Mailboxes>
+	<Mailboxes>
     </Mailboxes>
     <Hotspots>
       <Hotspot X="1647.89" Y="4853.815" Z="149.9329" />
@@ -165,5 +225,26 @@
       <Hotspot X="1691.575" Y="4895.054" Z="146.3642" />
       <Hotspot X="1654.359" Y="4868.142" Z="154.2487" />
     </Hotspots>
+    <AvoidMobs>
+    	<Mob Entry="104220" /> 
+		<Mob Entry="103841" />
+		<Mob Entry="99792" />
+		<Mob Entry="104226" />
+		<Mob Entry="110024" />
+		<Mob Entry="99792" />
+		<Mob Entry="104220" />
+	    <Mob Entry="113127"/>
+		<Mob Entry="104224"/>
+		<Mob Entry="99779"/>
+		<Mob Entry="100014"/>
+		<Mob Entry="106804" />
+		<Mob Entry="108942"/>
+		<Mob Entry="107811"/>
+		<Mob Entry="113190"/>	
+		<Mob Entry="99793"/>
+		<Mob Entry="98555"/>	
+		<Mob Entry="103527"/>
+		<Mob Entry="99791"/>		
+	</AvoidMobs>
   </SubProfile>
 </HBProfile>
