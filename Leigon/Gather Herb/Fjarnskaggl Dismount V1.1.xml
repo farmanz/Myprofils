@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HBProfile>
+=====================================================
+|         [Fjarnskaggl Dismount V1 ]                | 
+|          Credits: Farman                          |
+|          QQ 250663153                             |
+=====================================================
+
+  <Name>Fjarnskaggl Dismount V1</Name>
+  
+  <MinLevel>1</MinLevel> 
+  <MaxLevel>250663153</MaxLevel>
+  <MinDurability>0.4</MinDurability>
+  <MinFreeBagSlots>2</MinFreeBagSlots>
+  <SellGrey>True</SellGrey>
+  <SellWhite>False</SellWhite>
+  <SellGreen>False</SellGreen>
+  <SellBlue>False</SellBlue>
+  <MailWhite>True</MailWhite>
+  <MailGreen>True</MailGreen>
+  <MailBlue>True</MailBlue>
+  <MailPurple>True</MailPurple>
+  <ProtectedItems>
+  <Item>6497</Item>
+    <Item>6949</Item>
+    <Item>6950</Item>
+    <Item>8926</Item>
+    <Item>8927</Item>
+    <Item>8928</Item>
+    <Item>21927</Item>
+    <Item>43230</Item>
+    <Item>43231</Item>
+    <Item>17031</Item>
+    <Item>118</Item>
+    <Item>858</Item>
+    <Item>929</Item>
+    <Item>1710</Item>
+    <Item>3928</Item>
+    <Item>13446</Item>
+    <Item>17556</Item>
+    <Item>28551</Item>
+    <Item>33447</Item>
+    <Item>30319</Item>
+    <Item>34581</Item>
+    <Item>34582</Item>
+    <Item>32760</Item>
+    <Item>32761</Item>
+    <Item>31737</Item>
+    <Item>31735</Item>
+    <Item>23773</Item>
+    <Item>33803</Item>
+    <Item>12654</Item>
+    <Item>10579</Item>
+    <Item>32883</Item>
+    <Item>30612</Item>
+    <Item>30611</Item>
+    <Item>32882</Item>
+    <Item>41164</Item>
+    <Item>13377</Item>
+    <Item>11630</Item>
+    <Item>41165</Item>
+    <Item>31949</Item>
+    <Item>3465</Item>
+    <Item>3464</Item>
+    <Item>23772</Item>
+    <Item>10512</Item>
+    <Item>19316</Item>
+    <Item>19317</Item>
+    <Item>10513</Item>
+    <Item>9399</Item>
+    <Item>24417</Item>
+    <Item>18042</Item>
+    <Item>15997</Item>
+    <Item>11284</Item>
+    <Item>28056</Item>
+    <Item>8068</Item>
+    <Item>8067</Item>
+    <Item>8069</Item>
+    <Item>4960</Item>
+    <Item>41584</Item>
+    <Item>2519</Item>
+    <Item>28060</Item>
+    <Item>28061</Item>
+    <Item>11285</Item>
+    <Item>2516</Item>
+    <Item>3030</Item>
+    <Item>2512</Item>
+    <Item>2515</Item>
+    <Item>5568</Item>
+    <Item>3033</Item>
+    <Item>41586</Item>
+    <Item>28053</Item>
+    <Item>17556</Item>
+    <Item>4541</Item>
+    <Item>3770</Item>
+    <Item>1645</Item>
+    <Item>8766</Item>
+    <Item>4496</Item>
+    <Item>5571</Item>
+    <Item>828</Item>
+    <Item>5572</Item>
+    <Item>805</Item>
+  </ProtectedItems>
+  <SubProfile>
+    <Blackspots>
+	<Blackspot X="3589.378" Y="3296.628" Z="625.9794" Radius="1.593597" />
+	<Blackspot X="3162.146" Y="3041.706" Z="412.6123" Radius="2.095291" />
+    </Blackspots>
+    <Vendors>
+    </Vendors>
+	
+    <Mailboxes>
+    </Mailboxes>
+    <Hotspots>
+      <Hotspot X="2934.785" Y="2395.274" Z="243.632" />
+		<Hotspot X="2985.485" Y="2451.895" Z="248.5789" />
+		<Hotspot X="3042.919" Y="2485.026" Z="266.3111" />
+		<Hotspot X="3112.449" Y="2545.634" Z="286.9145" />
+		<Hotspot X="3117.108" Y="2645.274" Z="335.3381" />
+		<Hotspot X="3119.417" Y="2727.212" Z="381.177" />
+		<Hotspot X="3153.587" Y="2838.651" Z="432.2569" />
+		<!-- <Hotspot X="3156.892" Y="2947.812" Z="429.3368" /> -->
+		<!-- <Hotspot X="3146.709" Y="3060.567" Z="413.8727" />
+		<Hotspot X="3181.81" Y="3110.656" Z="436.5764" /> -->
+		<Hotspot X="3166.31" Y="3010.575" Z="412.6077" />
+		<Hotspot X="3236.019" Y="3059.464" Z="439.7422" />
+		<Hotspot X="3295.343" Y="3037.519" Z="451.1496" />
+		<Hotspot X="3262.082" Y="3047.286" Z="446.5645" />
+		<Hotspot X="3331.014" Y="3015.163" Z="450.1889" />
+		<Hotspot X="3376.158" Y="2916.502" Z="475.3486" />
+		<Hotspot X="3413.843" Y="2849.052" Z="490.8518" />
+		<Hotspot X="3470.366" Y="2887.373" Z="514.6989" />
+		<Hotspot X="3493.875" Y="2964.461" Z="537.068" />
+		<Hotspot X="3507.128" Y="3027.629" Z="552.1127" />
+		<Hotspot X="3524.321" Y="3094.625" Z="565.6053" />
+		<Hotspot X="3572.604" Y="3188.436" Z="577.7819" />
+		<Hotspot X="3551.115" Y="3270.586" Z="620.849" />
+		<Hotspot X="3541.004" Y="3321.571" Z="646.2252" />
+		<Hotspot X="3569.837" Y="3358.966" Z="661.1638" />
+		<Hotspot X="3599.156" Y="3311.048" Z="629.2505" />
+		<Hotspot X="3585.427" Y="3270.498" Z="621.7781" />
+		<Hotspot X="3593.014" Y="3246.934" Z="606.7374" />
+		<Hotspot X="3603.768" Y="3217.831" Z="586.0515" />
+		<Hotspot X="3598.929" Y="3150.111" Z="564.7609" />
+		<Hotspot X="3630.206" Y="3129.005" Z="551.126" />
+		<Hotspot X="3628.79" Y="3065.963" Z="520.722" />
+		<Hotspot X="3661.93" Y="3026.575" Z="481.1979" />
+		<Hotspot X="3700.002" Y="2988.298" Z="454.4767" />
+		<Hotspot X="3748.503" Y="2975.177" Z="434.6491" />
+		<Hotspot X="3796.179" Y="3042.012" Z="411.7249" />
+		<Hotspot X="3860.782" Y="3090.425" Z="380.4327" />
+		<Hotspot X="3923.901" Y="3091.553" Z="336.7278" />
+		<Hotspot X="3972.871" Y="3054.948" Z="310.1912" />
+		<Hotspot X="3974.757" Y="2988.669" Z="272.4821" />
+		<Hotspot X="3969.429" Y="2935.989" Z="254.9229" />
+		<Hotspot X="3934.803" Y="2901.702" Z="250.0858" />
+		<Hotspot X="3907.569" Y="2863.127" Z="246.689" />
+		<Hotspot X="3890.237" Y="2797.905" Z="233.7372" />
+		<Hotspot X="3843.387" Y="2708.875" Z="261.5235" />
+		<Hotspot X="3790.024" Y="2643.841" Z="303.5077" />
+		<Hotspot X="3696.249" Y="2621.948" Z="323.222" />
+		<Hotspot X="3660.687" Y="2629.143" Z="331.4495" />
+		<Hotspot X="3656.78" Y="2588.17" Z="324.5304" />
+		<Hotspot X="3687.07" Y="2537.143" Z="338.3984" />
+		<Hotspot X="3664.887" Y="2481.209" Z="342.265" />
+		<Hotspot X="3690.249" Y="2435.474" Z="360.0965" />
+		<Hotspot X="3719.135" Y="2370.258" Z="380.5022" />
+		<Hotspot X="3748.959" Y="2310.063" Z="366.8488" />
+		<Hotspot X="3732.975" Y="2259.43" Z="336.8267" />
+		<Hotspot X="3666.482" Y="2238.533" Z="310.4332" />
+		<Hotspot X="3639.617" Y="2316.766" Z="306.2652" />
+		<Hotspot X="3623.4" Y="2367.985" Z="294.1965" />
+		<Hotspot X="3571.278" Y="2447.563" Z="271.5069" />
+		<Hotspot X="3479.732" Y="2429.512" Z="250.9994" />
+		<Hotspot X="3391.181" Y="2400.204" Z="239.9086" />
+		<Hotspot X="3340.726" Y="2444.97" Z="245.3552" />
+		<Hotspot X="3321.128" Y="2525.335" Z="273.9414" />
+		<Hotspot X="3277.179" Y="2583.94" Z="302.8225" />
+		<Hotspot X="3204.825" Y="2571.844" Z="295.4718" />
+		<Hotspot X="3183.546" Y="2522.386" Z="272.4553" />
+		<Hotspot X="3146.921" Y="2467.987" Z="252.2798" />
+		<Hotspot X="3086.677" Y="2394.263" Z="237.099" />
+		<Hotspot X="3022.817" Y="2365.982" Z="227.3502" />
+		<Hotspot X="2954.716" Y="2386.816" Z="240.1582" />
+    </Hotspots>
+	
+	
+	 <AvoidMobs>
+    	<Mob Name="刃牙座狼" Entry="111206"/> 
+		<Mob Name="被遗忘者亡灵卫兵" Entry="91532"	/>
+		<Mob Name="亡灵骑兵罗斯" Entry="98124" />
+		<Mob Name="军需官瑞卡德" Entry="91535" />
+		<Mob Name="蔑魔好战者" Entry="96135" /><!-- 怪比较密集 -->
+		<Mob Name="巨石唤石者" Entry="100433" /><!-- 怪比较密集 -->
+		<Mob Name="巨石狂战士" Entry="96236" /><!-- 怪比较密集 -->
+	    <Mob Name="剖肠挥砍者" Entry="90747"/>
+		<Mob Name="鲜血图腾散兵" Entry="108289"/>
+		<Mob Name="蔑魔掠夺者" Entry="108306" />
+		<Mob Name="暮皮啸狼" Entry="97091"/>
+		<Mob Name="幼年猎风者" Entry="107258" />
+		<Mob Name="白水台风元素" Entry="92152"/> <!-- 稀有精英 -->
+		<Mob Name="白水暴雨元素" Entry="90748"/><!-- 怪比较密集 -->
+		<Mob Name="邪恶的鸦熊" Entry="91458"/>
+		<Mob Name="成年猎风者" Entry="99223"/>
+		<Mob Name="邪恶的鸦熊" Entry="91458"/>
+		<Mob Name="被遗忘者蝙蝠骑手" Entry="114717"/>
+		<Mob Name="被遗忘者恐翼蝙蝠" Entry="91069"/>
+		<Mob Name="米希卡" Entry="90783"/>
+		<Mob Name="供应商麦蹄" Entry="110521"/>
+		<Mob Name="天火号士兵" Entry="90785"/>
+		<Mob Name="指挥官罗娜·克罗雷" Entry="95889"/>
+		<Mob Name="多诺凡" Entry="98114" />		
+	</AvoidMobs>
+	
+
+  </SubProfile>
+</HBProfile>
